@@ -1,3 +1,11 @@
+# Tim's Hasenstall
+
+## Last message
+25/08/2020 12:52:22: DOOR CLOSED
+
+
+# Old stuff
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/RenatoFarruggio/hasenserver.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
